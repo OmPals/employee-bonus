@@ -15,3 +15,6 @@ Create and remove an employee from MongoDB. Calculate bonus for each employee. B
 ## Postman collection
 
 - Import this collection to your postman: https://www.getpostman.com/collections/24f9c9eed9cad652b3a5
+- You can find the API documentation by: 
+      - Right click on the 'prismetric' collection.
+      - Select 'view documentation' option
